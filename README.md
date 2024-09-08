@@ -5,7 +5,8 @@ Advanced Java Project
 
 This project is a food ordering system that allows users to browse and order food items from a menu. The system provides an intuitive user interface built with Java Swing for selecting food items, customizing orders, and placing them for delivery or pickup.
 
-![Food Ordering System](path/to/screenshot.png)
+![photo_2024-09-08_13-01-42](https://github.com/user-attachments/assets/710549a0-b036-44af-817e-7bd7043719ac)
+
 
 ## Features
 
