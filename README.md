@@ -25,7 +25,6 @@ This project is a food ordering system that allows users to browse and order foo
 - **Java:** Programming language
 - **Java Swing:** GUI toolkit for building the user interface
 - **Database:** PostgreSQL
-- **Payment Integration:** Stripe API
 
 ## Installation
 
@@ -34,7 +33,7 @@ To run the Food Ordering System locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/yourusername/food-ordering-system.git`
 2. Navigate to the project directory: `cd food-ordering-system`
 3. Set up the database:
-   - Create a PostgreSQL database.
+   - Create a MySQL database.
    - Update the database configuration in the `config.properties` file.
 4. Build the project using your preferred Java development environment.
 5. Start the application and explore the food ordering system.
