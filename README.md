@@ -24,7 +24,7 @@ This project is a food ordering system that allows users to browse and order foo
 
 - **Java:** Programming language
 - **Java Swing:** GUI toolkit for building the user interface
-- **Database:** PostgreSQL
+- **Database:** MySQL
 
 ## Installation
 
